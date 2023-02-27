@@ -18,7 +18,7 @@ Este es un proyecto que recopila datos de precios de propiedades en la Región d
 
 Aquí está una captura de pantalla de la visualización de los datos extraídos:
 
-![Visualización de los datos](websrapping-portal-inmobilario/map.png)
+![Visualización de los datos](websrapping-portal-inmobiliario/map.png)
 
 ## Contribuciones
 
